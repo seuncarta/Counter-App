@@ -1,0 +1,33 @@
+body {
+    background-color: #CFD2CF;
+}
+
+#Container {
+    height: 200px;
+    width: 400px;
+    border: 5px solid #472D2D;
+    margin: 25px auto 75px;
+    text-align: center;
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+    color: #850E35;
+}
+
+#result {
+    height: 20px;
+    width: 200px;
+    margin: 30px auto 20px;
+    background-color: white;
+}
+
+#increment, #decrement {
+    width: 50px;
+
+}
+
+#reset {
+    margin-top: 20px;
+}
